@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you refer to these slides, please cite them as below."
+authors:
+  - family-names: "von Grebmer zu Wolfsthurn"
+    given-names: "Sarah"
+    affiliation: "LMU Open Science Center"
+title: "Introduction to version control with Git in RStudio"
+version: v1.0.1
+doi: "10.5281/zenodo.23983530"
+date-released: 2026-11-05
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/lmu-osc/slides-git"
+url: "https://lmu-osc.github.io/slides-git/"
